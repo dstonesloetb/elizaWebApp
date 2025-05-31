@@ -212,7 +212,8 @@ def testPatterns():
   
 
 #testPatterns()
-  
+
+'''
 while(True):
     text = input("? ")
     if len(text) == 0:
@@ -221,3 +222,4 @@ while(True):
     keywords, words = findKeywords(text)
     print(answer(keywords, words))
 
+'''
